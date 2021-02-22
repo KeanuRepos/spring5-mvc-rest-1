@@ -1,1 +1,1 @@
-# spring5-mvc-rest-1
+# spring5 mvc rest application
